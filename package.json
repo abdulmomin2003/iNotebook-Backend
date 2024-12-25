@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2",
+    "web-vitals": "^4.2.4"
+  },
+  "name": "inotebook",
+  "version": "1.0.0",
+  "description": "iNotebook - your notebook on the cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulmomin2003/iNotebook-Backend.git"
+  },
+  "author": "Abdul Momin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulmomin2003/iNotebook-Backend/issues"
+  },
+  "homepage": "https://github.com/abdulmomin2003/iNotebook-Backend#readme"
+}
